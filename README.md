@@ -1,1 +1,2 @@
-# weather_app
+## Weather Application
+- Create Web Application using Django
